@@ -26,7 +26,7 @@
         .bg-neon-fixed {
             position: fixed;
             inset: 0;
-            background-image: url('ps background.jpg'); /* Menggunakan gambar kolase karakter game */
+            background-image: url('assets/ps background.jpg'); /* Menggunakan gambar kolase karakter game */
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;

@@ -41,7 +41,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         .bg-neon-fixed {
             position: fixed;
             inset: 0;
-            background-image: url('ps background.jpg');
+            background-image: url('assets/ps background.jpg');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;

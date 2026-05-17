@@ -117,7 +117,7 @@ $daftar_unit = ambil_unit($conn);
         .bg-cyberpunk-fixed {
             position: fixed;
             inset: 0;
-            background-image: url('cyberpunk-2077.jpg'); /* Sesuai dengan file yang diupload */
+            background-image: url('assets/cyberpunk-2077.jpg'); /* Sesuai dengan file yang diupload */
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
